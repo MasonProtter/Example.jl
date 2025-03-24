@@ -1,0 +1,4 @@
+name = "Example"
+uuid = "5556c4b5-2cf8-4f84-b0e7-e12e93698712"
+authors = ["MasonProtter <mason.protter@icloud.com>"]
+version = "0.1.0"
